@@ -19,8 +19,8 @@ mvn clean test
 ```
 
 **Dependencies**
-- JDK 8
-- Maven
+* JDK 8
+* Maven
 
 * How to run tests
 ```
