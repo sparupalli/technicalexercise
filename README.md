@@ -4,6 +4,7 @@
 
 * Quick summary
 Selenium framework utilizing page object pattern
+Currently the framework is written to run the tests on firefox. Need some work in DriverFactoryImpl to get it run on multiple browsers
 
 ### How do I get set up? ###
 
