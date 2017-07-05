@@ -18,7 +18,7 @@ Selenium framework utilizing page object pattern
 mvn clean test
 ```
 
-* Dependencies
+**Dependencies**
 - JDK 8
 - Maven
 
