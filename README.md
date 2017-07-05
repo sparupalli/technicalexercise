@@ -23,7 +23,7 @@ mvn clean test
 * JDK 8
 * Maven
 
-* How to run tests
+**How to run tests**
 ```
 #!java
 
